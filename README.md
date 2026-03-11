@@ -1,7 +1,7 @@
 ![Header Image](https://github.com/atharvotech/atharvotech/blob/main/header.png)
 # 💫 Hi 👋, I'm Atharv Shukla
 
-**Atharvotech - World or Infinite creativity | Aspiring Software Engineer | Building Scalable Web Apps | Real-world Solutions**
+**Atharvotech - The world of Infinite creativity | Aspiring Software Engineer | Building Scalable Web Apps | Real-world Solutions**
 
 Email Me 👉 ✉️ **atharvotech@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
